@@ -1,7 +1,7 @@
 # Odilbek Shavkatov 👋
 
 Backend developer. Python, Django, Telegram bots, AI.
-📍 Gimhae, South Korea · 🇺🇿 from Uzbekistan
+📍 Gimhae, South Korea · from Uzbekistan
 
 ## 🚀 Projects
 
